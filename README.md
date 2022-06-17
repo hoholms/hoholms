@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hoholms
+- 📖 I'm a 3rd year student at CEITI
 - 👀 I’m interested in programming on Java, C++, and maybe something more...
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: ninikabug@gmail.com
