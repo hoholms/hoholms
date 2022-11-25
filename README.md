@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **ninikabug@gmail.com**
-
-- ⚡ Fun fact **a cat has 32 muscles in each ear.**
+- 📫 How to reach me: **ninikabug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
