@@ -23,10 +23,9 @@
 
 ###
 
-<img align="right" height="140" src="https://i.imgflip.com/9io8kc.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/hoholms/hoholms/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img align="right" height="150" src="https://i.imgflip.com/9io8kc.gif"  />
+<img width="75%" src="https://raw.githubusercontent.com/hoholms/hoholms/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
